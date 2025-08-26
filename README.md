@@ -90,21 +90,6 @@ This project explores various regression techniques to predict residential prope
 - `train.csv` – Original Kaggle dataset
 - `data_preprocessed.csv` – Cleaned dataset (generated)
 - `plots/` - Directory of the saved plots
-  
-## Requirements
-
-- Python 3.7+
-- pandas
-- numpy
-- scikit-learn
-- matplotlib
-- seaborn
-
-## Usage
-
-1. Run `preprocess.ipynb` to clean and transform the raw data
-2. Run `train.ipynb` to perform feature selection and train models
-3. Models are evaluated using 10-fold cross-validation and hold-out test set
 
 ## Author
 
