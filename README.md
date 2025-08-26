@@ -1,4 +1,5 @@
 # House Price Prediction: Advanced Regression Techniques
+### MSc Machine Learning Project
 
 A comprehensive machine learning project implementing multiple regression models to predict house sale prices using the Ames Housing dataset from Kaggle.
 
