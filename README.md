@@ -109,8 +109,6 @@ This project explores various regression techniques to predict residential prope
 ## Author
 
 **Konstantinos Vardakas**  
-Student ID: 522  
-Email: pcs0522@uoi.gr
 
 ## Course Information
 
