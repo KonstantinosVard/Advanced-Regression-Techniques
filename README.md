@@ -97,7 +97,7 @@ This project explores various regression techniques to predict residential prope
 
 ## Course Information
 
-Machine Learning - Exercise 1: Regression Problem
+Machine Learning - Project 1: Regression Problem
 
 ---
 
